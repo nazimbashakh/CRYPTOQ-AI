@@ -1,0 +1,10 @@
+﻿venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+*.log
+node_modules/
+dist/
+build/
+ai_engine/paysim.csv
